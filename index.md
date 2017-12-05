@@ -1,19 +1,19 @@
 ## Welcome to lee's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cleckleyf/cleckfamumlh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We Over here tryna live life to the fullest
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Everyday is an opportunity to reach that goal
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I say that to say this stay black
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Stay
+## Lit 
+### n Educated
 
 - Bulleted
 - List
