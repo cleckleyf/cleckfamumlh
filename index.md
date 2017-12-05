@@ -1,8 +1,8 @@
 ## Welcome to lee's GitHub Pages
 
-We Over here tryna live life to the fullest
+<h1>We Over here tryna live life to the fullest</h1>
 
-Everyday is an opportunity to reach that goal
+<h2>Everyday is an opportunity to reach that goal</h2>
 
 ### Markdown
 
